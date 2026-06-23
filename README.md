@@ -1,2 +1,2 @@
 # C-Basics
-Learning C programming from basics to advanced
+My C programming practice and projects.
