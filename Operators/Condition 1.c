@@ -10,7 +10,7 @@ int main (){
     printf ("Enter Value Of x : ");
     scanf ("%d" , &x);
 
-    printf ("%d" , x % 2 == 0);
+    printf ("%d" , x % 2 == 0); // Even = 1 & Odd = 0
 
     return 0;
 }
