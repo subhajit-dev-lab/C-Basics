@@ -31,3 +31,23 @@ int main (){
 
     return 0;
 }
+
+// char Day ;   
+// printf ("Enter Day: ");
+// scanf ("%s" , &Day);
+// switch (Day) {
+//        case 'm' : printf ("Monday \n") ;
+//                break;
+//        case 't' : printf ("Tueaday \n");
+//                break;
+//        case 'w' : printf ("Wednesday \n");
+//                break;
+//        case 'T' : printf ("Thursday \n");
+//                break;
+//        case 'f' : printf ("Friday \n") ;
+//                break;
+//        case 's' : printf ("Saturday \n");
+//                break;
+//        case 'S' : printf ("Sunday \n");
+//                break;
+//        default : printf ("Not A Valid Day! \n");}
