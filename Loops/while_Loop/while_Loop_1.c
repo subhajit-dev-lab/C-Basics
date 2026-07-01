@@ -6,9 +6,9 @@ int main () {
 
     int i=1 ;
 
-    while (i<=10){ 
+    while (i<=10){  // Printing 10 if 100 then (i<=100)
 
-        printf ("%d \n" , i) ;
+        printf ("Hello World \n" , i) ;
 
         i++ ;
 
