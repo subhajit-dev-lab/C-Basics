@@ -9,3 +9,5 @@ int main () {
 
     return 0 ;
 }
+
+// Same We Can Do i-- ; Which Means Use i Then Do (i-1)
