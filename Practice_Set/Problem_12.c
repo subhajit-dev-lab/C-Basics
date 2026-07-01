@@ -1,4 +1,4 @@
-// Print The Sum Of n Natural Numbers ; If n Is Given By The User
+// Print The Sum Of n Natural Numbers ; If n Is Given By The User & Also Print Them In Reverse
 
 #include <stdio.h>
 
@@ -13,7 +13,12 @@ int main () {
     for (int i=1 ; i<=n ; i++){
         sum += i ; // which means sum = sum + i
     }
-    printf ("Sum Is: %d" , sum) ;
+    printf ("Sum Is: %d\n" , sum) ;
+    printf("Reverse Order: ");
+
+    for (int i=n ; i>=1 ; i--) {
+        printf("%d" , i);
+    }
     
     return 0;
     
