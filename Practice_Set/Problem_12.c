@@ -23,3 +23,8 @@ int main () {
     return 0;
     
 }
+
+// If We Want These Two Loops In One Then : 
+// for (int i=1 , j=n ; i<=n && j>=1 ; i++ , j--) {
+// sum += i
+// printf("%d\n" , j)}
