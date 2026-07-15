@@ -13,6 +13,6 @@ int main (){
 
 float calculateTemp(float celsius){
 
-    float far = (celsius*9/5)+32 ;
+    float far = (celsius*9.0/5.0)+32 ;
     return far;
 }
