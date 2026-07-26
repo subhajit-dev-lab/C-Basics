@@ -15,3 +15,7 @@ int main (){
 
     return 0 ;
 }
+
+// Initialization of Array:
+
+// int marks[] = {90, 96, 92} ;     Or      int marks[3] = {90, 96, 92} ;
