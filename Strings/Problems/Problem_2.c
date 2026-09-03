@@ -4,12 +4,12 @@
 
 int main (){
 
-    printf ("Enter name: ");
+    printf ("Enter firstname: ");
 
     char name[50];
 
     scanf ("%s", name);
-    printf ("your nsme is: %s", name);
+    printf ("your firstname is: %s", name);
 
     return 0;
 }
